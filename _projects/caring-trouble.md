@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: page
 title: Caring Trouble Analytical Framework
 description: Analytical tool for AI Artworks
 img: assets/img/lts_full_latent_space_scatter.jpg
@@ -28,7 +28,7 @@ This framework draws from interdisciplinary theory from science and technology s
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mofcc.pick.png" title="The Caring Trouble Analytical Framework" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mofcc-pick.png" title="The Caring Trouble Analytical Framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
