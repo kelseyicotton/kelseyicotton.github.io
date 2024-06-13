@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: kelsey # the website title (if blank, full name will be used instead)
-first_name: kelsey
+title: Kelsey # the website title (if blank, full name will be used instead)
+first_name: Kelsey
 middle_name: i
-last_name: cotton
+last_name: Cotton
 email: kelseyicotton@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
